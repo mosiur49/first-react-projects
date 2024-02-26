@@ -10,7 +10,8 @@
     width: 286px;
     height: 286px;
     margin: 7px;
-    border-radius: 8px;
+    border-radius: 8px; 
+    
 }
 
 .product-name {
@@ -32,10 +33,10 @@
 
 }
 
-/* .product-info p{
-    margin-bottom: 2px;
+ /* .product-info p{
+    margin-bottom: 2px; 
     
-} */
+} */ 
 .btn-cart {
     width: 100%;
     border-radius: 0px 0px 8px 8px;
